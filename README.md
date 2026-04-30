@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Ahmad+Raisul+Siddiq;A+Fullstack+Developer;Nice+To+Meet+Ya!&center=true&size=30&color=58A6FF&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Ahmad+Raisul+Siddiq+👋;Still+Learning+%26+Growing+🌱;Open+to+Collaborative+Learning+🤝&center=true&size=28&color=58A6FF&width=600&height=55&font=Fira+Code&pause=1000&duration=3000">
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  🎓 Student at Indraprasta PGRI University | 💻 Passionate about building things with code
+  🎓 Student at Indraprasta PGRI University | 🌱 Currently learning and exploring
 </h3>
 
 <br/>
@@ -55,11 +55,11 @@
 
 ### Design
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/photoshop%20cs6-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![CorelDRAW](https://img.shields.io/badge/CorelDRAW%20X7-%23000000.svg?style=for-the-badge&logo=coreldraw&logoColor=%2361B03E)
 
 ### DevOps & Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=composer&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=composer&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### Operating System
 
@@ -80,20 +80,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddiq-Ahrais&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddiq-Ahrais&theme=tokyo-night&hide_border=true&border_radius=10" alt="Activity Graph" width="90%"/>
-</p>
-
----
-
-<h2 align="center">
-  🏆 GitHub Trophies
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddiq-Ahrais&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
