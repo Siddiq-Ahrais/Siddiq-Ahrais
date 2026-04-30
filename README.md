@@ -74,12 +74,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddiq-Ahrais&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq-Ahrais&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddiq-Ahrais&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq-Ahrais&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="44%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddiq-Ahrais&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddiq-Ahrais&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" width="100%"/>
 </p>
 
 ---
