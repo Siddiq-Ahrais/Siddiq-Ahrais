@@ -2,35 +2,43 @@
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&amp;display=swap');
-
+      @keyframes wave {
+        0%, 100% { fill: #0D2A4A; }
+        12% { fill: #1A6BBF; }
+        24% { fill: #58A6FF; }
+        36% { fill: #89C4FF; }
+        50% { fill: #89FFAA; }
+        62% { fill: #2ECC71; }
+        74% { fill: #1B9E5D; }
+        86% { fill: #0A5C3A; }
+      }
       @keyframes fade1 {
-        0%, 25% { opacity: 1; }
-        33%, 92% { opacity: 0; }
-        100% { opacity: 1; }
+        0% { opacity: 0; } 2.8% { opacity: 1; } 27.8% { opacity: 1; }
+        30.6% { opacity: 0; } 100% { opacity: 0; }
       }
       @keyframes fade2 {
-        0%, 25% { opacity: 0; }
-        33%, 58% { opacity: 1; }
-        67%, 100% { opacity: 0; }
+        0% { opacity: 0; } 33.3% { opacity: 0; } 36.1% { opacity: 1; }
+        61.1% { opacity: 1; } 63.9% { opacity: 0; } 100% { opacity: 0; }
       }
       @keyframes fade3 {
-        0%, 58% { opacity: 0; }
-        67%, 92% { opacity: 1; }
-        100% { opacity: 0; }
+        0% { opacity: 0; } 66.7% { opacity: 0; } 69.4% { opacity: 1; }
+        94.4% { opacity: 1; } 97.2% { opacity: 0; } 100% { opacity: 0; }
       }
-      .t {
+      .c {
+        animation: wave 6s ease-in-out infinite;
         font-family: 'Chakra Petch', 'Segoe UI', sans-serif;
         font-size: 35px;
         font-weight: 600;
-        fill: #F7F7F7;
-        text-anchor: middle;
       }
-      .t1 { animation: fade1 12s ease-in-out infinite; }
-      .t2 { animation: fade2 12s ease-in-out infinite; }
-      .t3 { animation: fade3 12s ease-in-out infinite; }
+      .g1 { animation: fade1 18s ease-in-out infinite; }
+      .g2 { animation: fade2 18s ease-in-out infinite; }
+      .g3 { animation: fade3 18s ease-in-out infinite; }
     </style>
   </defs>
-  <text x="300" y="37" class="t t1">AHMAD RAISUL SIDDIQ</text>
-  <text x="300" y="37" class="t t2">SIDDIQ AHRAIS</text>
-  <text x="300" y="37" class="t t3">CS STUDENT</text>
+
+  <g class="g1"><text x="300" y="38" text-anchor="middle" xml:space="preserve"><tspan class="c" style="animation-delay:0.60s">S</tspan><tspan class="c" style="animation-delay:0.55s">I</tspan><tspan class="c" style="animation-delay:0.50s">D</tspan><tspan class="c" style="animation-delay:0.45s">D</tspan><tspan class="c" style="animation-delay:0.40s">I</tspan><tspan class="c" style="animation-delay:0.35s">Q</tspan><tspan class="c" style="animation-delay:0.30s"> </tspan><tspan class="c" style="animation-delay:0.25s">A</tspan><tspan class="c" style="animation-delay:0.20s">H</tspan><tspan class="c" style="animation-delay:0.15s">R</tspan><tspan class="c" style="animation-delay:0.10s">A</tspan><tspan class="c" style="animation-delay:0.05s">I</tspan><tspan class="c" style="animation-delay:0.00s">S</tspan></text></g>
+
+  <g class="g2"><text x="300" y="38" text-anchor="middle" xml:space="preserve"><tspan class="c" style="animation-delay:0.90s">A</tspan><tspan class="c" style="animation-delay:0.85s">H</tspan><tspan class="c" style="animation-delay:0.80s">M</tspan><tspan class="c" style="animation-delay:0.75s">A</tspan><tspan class="c" style="animation-delay:0.70s">D</tspan><tspan class="c" style="animation-delay:0.65s"> </tspan><tspan class="c" style="animation-delay:0.60s">R</tspan><tspan class="c" style="animation-delay:0.55s">A</tspan><tspan class="c" style="animation-delay:0.50s">I</tspan><tspan class="c" style="animation-delay:0.45s">S</tspan><tspan class="c" style="animation-delay:0.40s">U</tspan><tspan class="c" style="animation-delay:0.35s">L</tspan><tspan class="c" style="animation-delay:0.30s"> </tspan><tspan class="c" style="animation-delay:0.25s">S</tspan><tspan class="c" style="animation-delay:0.20s">I</tspan><tspan class="c" style="animation-delay:0.15s">D</tspan><tspan class="c" style="animation-delay:0.10s">D</tspan><tspan class="c" style="animation-delay:0.05s">I</tspan><tspan class="c" style="animation-delay:0.00s">Q</tspan></text></g>
+
+  <g class="g3"><text x="300" y="38" text-anchor="middle" xml:space="preserve"><tspan class="c" style="animation-delay:0.45s">C</tspan><tspan class="c" style="animation-delay:0.40s">S</tspan><tspan class="c" style="animation-delay:0.35s"> </tspan><tspan class="c" style="animation-delay:0.30s">S</tspan><tspan class="c" style="animation-delay:0.25s">T</tspan><tspan class="c" style="animation-delay:0.20s">U</tspan><tspan class="c" style="animation-delay:0.15s">D</tspan><tspan class="c" style="animation-delay:0.10s">E</tspan><tspan class="c" style="animation-delay:0.05s">N</tspan><tspan class="c" style="animation-delay:0.00s">T</tspan></text></g>
 </svg>
