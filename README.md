@@ -24,7 +24,7 @@
     <i>"Refactor the core, conquer the quest."</i>
   </blockquote>
   <br/>
-  <p>need someone for collaborative learning? feel free to ask</p>
+  <img src="./collab-text.svg" alt="need someone for collaborative learning? feel free to ask" />
 </div>
 
 <br/>

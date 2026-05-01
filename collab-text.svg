@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 40" width="600" height="40">
+  <defs>
+    <style>
+      @keyframes wave {
+        0%, 100% { fill: #0D2A4A; }
+        12% { fill: #1A6BBF; }
+        24% { fill: #58A6FF; }
+        36% { fill: #89C4FF; }
+        50% { fill: #89FFAA; }
+        62% { fill: #2ECC71; }
+        74% { fill: #1B9E5D; }
+        86% { fill: #0A5C3A; }
+      }
+      .c {
+        animation: wave 6s ease-in-out infinite;
+        font-family: 'Segoe UI', Tahoma, sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text x="300" y="26" text-anchor="middle" xml:space="preserve"><tspan class="c" style="animation-delay:2.80s">n</tspan><tspan class="c" style="animation-delay:2.75s">e</tspan><tspan class="c" style="animation-delay:2.70s">e</tspan><tspan class="c" style="animation-delay:2.65s">d</tspan><tspan class="c" style="animation-delay:2.60s"> </tspan><tspan class="c" style="animation-delay:2.55s">s</tspan><tspan class="c" style="animation-delay:2.50s">o</tspan><tspan class="c" style="animation-delay:2.45s">m</tspan><tspan class="c" style="animation-delay:2.40s">e</tspan><tspan class="c" style="animation-delay:2.35s">o</tspan><tspan class="c" style="animation-delay:2.30s">n</tspan><tspan class="c" style="animation-delay:2.25s">e</tspan><tspan class="c" style="animation-delay:2.20s"> </tspan><tspan class="c" style="animation-delay:2.15s">f</tspan><tspan class="c" style="animation-delay:2.10s">o</tspan><tspan class="c" style="animation-delay:2.05s">r</tspan><tspan class="c" style="animation-delay:2.00s"> </tspan><tspan class="c" style="animation-delay:1.95s">c</tspan><tspan class="c" style="animation-delay:1.90s">o</tspan><tspan class="c" style="animation-delay:1.85s">l</tspan><tspan class="c" style="animation-delay:1.80s">l</tspan><tspan class="c" style="animation-delay:1.75s">a</tspan><tspan class="c" style="animation-delay:1.70s">b</tspan><tspan class="c" style="animation-delay:1.65s">o</tspan><tspan class="c" style="animation-delay:1.60s">r</tspan><tspan class="c" style="animation-delay:1.55s">a</tspan><tspan class="c" style="animation-delay:1.50s">t</tspan><tspan class="c" style="animation-delay:1.45s">i</tspan><tspan class="c" style="animation-delay:1.40s">v</tspan><tspan class="c" style="animation-delay:1.35s">e</tspan><tspan class="c" style="animation-delay:1.30s"> </tspan><tspan class="c" style="animation-delay:1.25s">l</tspan><tspan class="c" style="animation-delay:1.20s">e</tspan><tspan class="c" style="animation-delay:1.15s">a</tspan><tspan class="c" style="animation-delay:1.10s">r</tspan><tspan class="c" style="animation-delay:1.05s">n</tspan><tspan class="c" style="animation-delay:1.00s">i</tspan><tspan class="c" style="animation-delay:0.95s">n</tspan><tspan class="c" style="animation-delay:0.90s">g</tspan><tspan class="c" style="animation-delay:0.85s">?</tspan><tspan class="c" style="animation-delay:0.80s"> </tspan><tspan class="c" style="animation-delay:0.75s">f</tspan><tspan class="c" style="animation-delay:0.70s">e</tspan><tspan class="c" style="animation-delay:0.65s">e</tspan><tspan class="c" style="animation-delay:0.60s">l</tspan><tspan class="c" style="animation-delay:0.55s"> </tspan><tspan class="c" style="animation-delay:0.50s">f</tspan><tspan class="c" style="animation-delay:0.45s">r</tspan><tspan class="c" style="animation-delay:0.40s">e</tspan><tspan class="c" style="animation-delay:0.35s">e</tspan><tspan class="c" style="animation-delay:0.30s"> </tspan><tspan class="c" style="animation-delay:0.25s">t</tspan><tspan class="c" style="animation-delay:0.20s">o</tspan><tspan class="c" style="animation-delay:0.15s"> </tspan><tspan class="c" style="animation-delay:0.10s">a</tspan><tspan class="c" style="animation-delay:0.05s">s</tspan><tspan class="c" style="animation-delay:0.00s">k</tspan></text>
+</svg>
