@@ -23,12 +23,12 @@
   <blockquote>
     <i>"Refactor the core, conquer the quest."</i>
   </blockquote>
-  <br/>
-  <img src="./collab-text.svg" alt="Open to collaborate and learn together - feel free to reach out!" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siddiq-Ahrais&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9f9f9f&icon_color=58A6FF&v=1" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="./collab-text.svg" alt="Open to collaborate and learn together - feel free to reach out!" />
 </div>
