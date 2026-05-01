@@ -21,8 +21,12 @@
 
 <div align="center">
   <blockquote>
-    <i>"CS student who loves learning through collaboration — building projects, sharing knowledge, and vibing with code along the way."</i>
+    <i>"Refactor the core, conquer the quest."</i>
   </blockquote>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=500&size=22&pause=3000&color=9f9f9f&center=true&vCenter=true&width=500&lines=need+someone+for+collaborative+learning%3F+feel+free+to+ask" alt="Collab" />
+  </a>
 </div>
 
 <br/>
