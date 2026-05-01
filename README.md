@@ -4,10 +4,10 @@
 
 <div align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/siddiq-ahrais/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-raisul-siddiq-36aa79292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:siddiqahrais@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Siddiq-Ahrais">
