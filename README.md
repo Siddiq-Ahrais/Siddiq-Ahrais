@@ -21,7 +21,7 @@
 
 <div align="center">
   <blockquote>
-    <i>"Learning in public, building in progress. A CS student on a mission to grow through code, collaboration, and curiosity."</i>
+    <i>"CS student who loves learning through collaboration — building projects, sharing knowledge, and vibing with code along the way."</i>
   </blockquote>
 </div>
 
