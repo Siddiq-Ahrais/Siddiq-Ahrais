@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" width="600" height="50">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&amp;display=swap');
+
+      @keyframes fade1 {
+        0%, 25% { opacity: 1; }
+        33%, 92% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      @keyframes fade2 {
+        0%, 25% { opacity: 0; }
+        33%, 58% { opacity: 1; }
+        67%, 100% { opacity: 0; }
+      }
+      @keyframes fade3 {
+        0%, 58% { opacity: 0; }
+        67%, 92% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      .t {
+        font-family: 'Chakra Petch', 'Segoe UI', sans-serif;
+        font-size: 35px;
+        font-weight: 600;
+        fill: #F7F7F7;
+        text-anchor: middle;
+      }
+      .t1 { animation: fade1 12s ease-in-out infinite; }
+      .t2 { animation: fade2 12s ease-in-out infinite; }
+      .t3 { animation: fade3 12s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="300" y="37" class="t t1">AHMAD RAISUL SIDDIQ</text>
+  <text x="300" y="37" class="t t2">SIDDIQ AHRAIS</text>
+  <text x="300" y="37" class="t t3">CS STUDENT</text>
+</svg>
