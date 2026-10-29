@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./phrolova.jpg" alt="Phrolova" width="200" />
+  <br/>
   <img src="./name-fade.svg" alt="Ahmad Raisul Siddiq | Siddiq Ahrais | CS Student" />
 </div>
 
