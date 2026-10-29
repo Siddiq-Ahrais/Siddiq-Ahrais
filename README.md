@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./phrolova.jpg" alt="Phrolova" width="200" />
+  <img src="./phrolova-1.jpg" alt="Phrolova 1" width="190" height="190" />
+  <img src="./phrolova-2.jpg" alt="Phrolova 2" width="190" height="190" />
+  <img src="./phrolova-3.jpg" alt="Phrolova 3" width="190" height="190" />
   <br/>
   <img src="./name-fade.svg" alt="Ahmad Raisul Siddiq | Siddiq Ahrais | CS Student" />
 </div>
