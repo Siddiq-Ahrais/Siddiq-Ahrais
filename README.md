@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./phrolova-1.jpg" alt="Phrolova 1" width="190" height="190" />
-  <img src="./phrolova-2.jpg" alt="Phrolova 2" width="190" height="190" />
-  <img src="./phrolova-3.jpg" alt="Phrolova 3" width="190" height="190" />
+  <img src="./phrolova.gif" alt="Phrolova" width="380" />
   <br/>
   <img src="./name-fade.svg" alt="Ahmad Raisul Siddiq | Siddiq Ahrais | CS Student" />
 </div>
@@ -31,6 +29,10 @@
 
 <div align="center">
   <img src="https://githubstat-delta.vercel.app/api?username=Siddiq-Ahrais&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9f9f9f&icon_color=58A6FF&count_private=true&v=2" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="./phrolova-1.jpg" alt="Phrolova 1" width="190" height="190" />
+  <img src="./phrolova-2.jpg" alt="Phrolova 2" width="190" height="190" />
+  <img src="./phrolova-3.jpg" alt="Phrolova 3" width="190" height="190" />
   <br/><br/>
   <img src="./collab-text.svg" alt="Open to collaborate and learn together - feel free to reach out!" />
 </div>
