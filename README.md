@@ -30,9 +30,15 @@
 <div align="center">
   <img src="https://githubstat-delta.vercel.app/api?username=Siddiq-Ahrais&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9f9f9f&icon_color=58A6FF&count_private=true&v=2" alt="GitHub Stats" />
   <br/><br/>
-  <img src="./phrolova-1.jpg" alt="Phrolova 1" width="190" height="190" />
-  <img src="./phrolova-2.jpg" alt="Phrolova 2" width="190" height="190" />
-  <img src="./phrolova-3.jpg" alt="Phrolova 3" width="190" height="190" />
+  <img src="./phrolova-1.jpg" alt="Phrolova 1" width="130" height="130" />
+  <img src="./phrolova-2.jpg" alt="Phrolova 2" width="130" height="130" />
+  <img src="./phrolova-3.jpg" alt="Phrolova 3" width="130" height="130" />
+  <img src="./phrolova-4.jpg" alt="Phrolova 4" width="130" height="130" />
+  <br/>
+  <img src="./phrolova-5.jpg" alt="Phrolova 5" width="130" height="130" />
+  <img src="./phrolova-6.jpg" alt="Phrolova 6" width="130" height="130" />
+  <img src="./phrolova-7.jpg" alt="Phrolova 7" width="130" height="130" />
+  <img src="./phrolova-8.jpg" alt="Phrolova 8" width="130" height="130" />
   <br/><br/>
   <img src="./collab-text.svg" alt="Open to collaborate and learn together - feel free to reach out!" />
 </div>
