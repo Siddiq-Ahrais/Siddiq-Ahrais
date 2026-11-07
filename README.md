@@ -39,6 +39,7 @@
   <img src="./phrolova-6.jpg" alt="Phrolova 6" width="130" height="130" />
   <img src="./phrolova-7.jpg" alt="Phrolova 7" width="130" height="130" />
   <img src="./phrolova-8.jpg" alt="Phrolova 8" width="130" height="130" />
+  <img src="./phrolova-9.jpg" alt="Phrolova 9" width="130" height="130" />
   <br/><br/>
   <img src="./collab-text.svg" alt="Open to collaborate and learn together - feel free to reach out!" />
 </div>
